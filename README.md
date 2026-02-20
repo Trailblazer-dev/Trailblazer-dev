@@ -1,130 +1,130 @@
-<h1 align="center">Rich Kariuki | Frontend Developer & UI/UX Designer</h1>
+# 🛡️ Rich Kariuki  
 
-###
+### SOC Analyst | Cybersecurity Engineer | Secure Systems Developer  
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+**Defending Systems. Engineering Resilience. Automating Intelligence.**
 
-###
+I am a security-focused computer scientist specializing in threat detection, network analysis, and secure application architecture.  
 
-<h3 align="center">Building beautiful, responsive, and user-centered web experiences</h3>
+With hands-on experience in Linux environments, network traffic analysis, and security monitoring, I approach development with a defensive mindset — building systems that are secure by design.
 
-###
+🎓 BSc Applied Computer Science – Egerton University (Aug 2026)  
+🐧 3+ Years Linux Experience  
+🔎 Active TryHackMe Practitioner  
+📈 Transitioning into Full-Time SOC & Threat Detection Roles  
 
-<p align="center">👨‍💻 Frontend Specialist with React & Tailwind CSS | 🎨 UI/UX Designer | 📊 Data Science Enthusiast</p>
+---
 
-<br clear="both">
+# 🛡️ Core Cybersecurity Stack
 
-## 🚀 About Me
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCPDump](https://img.shields.io/badge/TCPDump-000000?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![SOC Analyst](https://img.shields.io/badge/SOC_Operations-000000?style=for-the-badge)
 
-I'm a frontend developer and UI/UX designer with a passion for creating intuitive and visually appealing web experiences. Currently pursuing Applied Computer Science at Egerton University (graduating Aug 2026), I combine academic knowledge with practical skills to deliver high-quality solutions.
+### Areas of Focus
+- Network Traffic Analysis  
+- Log Investigation & IoC Identification  
+- Vulnerability Scanning & Enumeration  
+- Linux Hardening  
+- Incident Detection & Triage  
+- Security Automation (Python)  
 
-My 3+ years of Linux experience gives me a strong technical foundation, while my expertise in React and Tailwind CSS allows me to build modern, responsive interfaces. I'm also expanding my skill set in data science, working with Python, Pandas, Matplotlib and related technologies.
+---
 
-## 🛠️ Skills
+# 🔐 Secure Development (Fullstack Boost)
 
-<h3>Frontend Development</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-</div>
+While security is my core focus, I build secure applications using:
 
-<h3>UI/UX Design</h3>
-<div align="left">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3>Data Science & Programming</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
-</div>
+I implement:
+- Secure authentication workflows  
+- Role-Based Access Control (RBAC)  
+- Data encryption practices  
+- Backend validation & API hardening  
 
-<h3>Tools & Technologies</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+---
 
-## 📚 Education & Certifications
+# 📊 Security + Data Science
 
-- **BSc in Applied Computer Science** - Egerton University (Expected graduation: Aug 2026)
-- **Certifications:**
-  - Cisco Networking,Operating System
-  - Code Academy Web Development
-  - Kaggle Data Science
+I leverage Python-based analytics for detection engineering:
 
-## 🌱 Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- Advanced React patterns and performance optimization
-- Data visualization with D3.js
-- Machine learning with scikit-learn
-- Cloud deployment with AWS
+Applications:
+- Log anomaly detection  
+- Pattern recognition in network traffic  
+- Behavioral analysis models  
+- Security visualization dashboards  
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trailblazer-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trailblazer-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Trailblazer-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" />
-</div>
+# 📈 GitHub & Security Activity
 
-## 🔗 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trailblazer-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trailblazer-dev&theme=radical" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rich-victor-emanuel-001165196/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/+254111250188" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <!-- Add your professional email or contact form link if desired -->
-</div>
+<!-- Replace USERNAME with your TryHackMe username -->
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/USERNAME.png" /> -->
 
-## 📂 Featured Projects
+---
 
-1. **Frontend Portfolio** - A showcase of my React and Tailwind CSS projects, demonstrating responsive web design and interactive UI components.
-   [View Portfolio](https://portfolio-drab-pi-18.vercel.app/)
+# 🚀 Security-Focused Projects
 
-2. **UI/UX Design Portfolio** - Coming soon! Currently working on collecting and organizing my design work.
-   
-3. **Data Visualization Project** - Work in progress. Using Python and data science tools to create meaningful visualizations.
-   [Project Repository](https://github.com/Trailblazer-dev/time-series-animations)
+## 🔎 Network Log Anomaly Detection
+Python-based detection system identifying unusual traffic patterns and potential IoCs.
 
-<br clear="both">
+## 🛒 Secure E-Commerce Architecture
+Fullstack platform built with Django implementing:
+- RBAC
+- Secure session handling
+- Input sanitization
+- Encrypted data storage
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Trailblazer-dev.Trailblazer-dev&right_color=blue" />
+## 📡 Packet Analysis Lab
+Wireshark & tcpdump-based investigation exercises focused on:
+- TCP flag analysis  
+- DNS enumeration  
+- ARP inspection  
+- Traffic anomaly detection  
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Trailblazer-dev/Trailblazer-dev/output/snake.svg" alt="Snake animation" />
+# 🎯 2026 Security Roadmap
 
-###
+- [ ] CompTIA CySA+ Certification  
+- [ ] SIEM Tool Proficiency (Splunk / ELK)  
+- [ ] Detection Engineering Projects  
+- [ ] Kubernetes Security Hardening  
+- [ ] Cloud Security (AWS Security Specialty Path)  
+
+---
+
+# 🧠 Security Philosophy
+
+> “Assume breach. Monitor continuously. Harden aggressively.”
+
+I build with the mindset that every system is a potential target — and resilience must be engineered, not assumed.
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rich_Kariuki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rich-victor-emanuel-001165196/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254111250188)
+
+📧 richvictor830@gmail.com
+
+---
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Trailblazer-dev.Trailblazer-dev" />
